@@ -5,5 +5,5 @@ public class Persion {
     private String name;
     private String address;
     private String time;
-    private  String hh;
+    private String hh;
 }
